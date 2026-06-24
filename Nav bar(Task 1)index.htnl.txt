@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaTech Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav id="navbar">
+        <div class="logo">Nova<span>Tech</span></div>
+
+        <ul>
+            <li><a href="#home">Dashboard</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Connect</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <p class="tagline">🚀 Future Ready Digital Solutions</p>
+
+            <h1>Build Faster.<br>Launch Smarter.</h1>
+
+            <p>
+                Create modern web experiences with responsive design,
+                seamless performance and intuitive user interfaces.
+            </p>
+
+            <div class="hero-buttons">
+                <button class="primary-btn">Explore Now</button>
+                <button class="secondary-btn">View Demo</button>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
